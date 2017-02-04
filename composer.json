@@ -1,0 +1,15 @@
+{
+  "name": "osja/tag",
+  "description": "Tag setup",
+  "require": {
+    "osja/core": "dev",
+    "laravelcollective/html": "5.4.*"
+  },
+  "authors": [
+    {
+      "name": "Osja",
+      "email": "osja.asia@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
