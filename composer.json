@@ -1,6 +1,7 @@
 {
   "name": "osja/tag",
   "description": "Tag setup",
+  "license": "MIT",
   "require": {
     "osja/core": "dev-master",
     "laravelcollective/html": "5.4.*"
