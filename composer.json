@@ -2,7 +2,7 @@
   "name": "osja/tag",
   "description": "Tag setup",
   "require": {
-    "osja/core": "master",
+    "osja/core": "dev-master",
     "laravelcollective/html": "5.4.*"
   },
   "authors": [
