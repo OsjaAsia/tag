@@ -3,7 +3,7 @@
   "description": "Tag setup",
   "license": "MIT",
   "require": {
-    "osja/core": "dev-master",
+    "osja/core": "1.0",
     "laravelcollective/html": "5.4.*"
   },
   "authors": [
@@ -12,6 +12,6 @@
       "email": "osja.asia@gmail.com"
     }
   ],
-  "minimum-stability" : "dev",
+  "minimum-stability" : "0.1",
   "prefer-stable" : true
 }
