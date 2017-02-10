@@ -3,7 +3,7 @@
   "description": "Tag setup",
   "license": "MIT",
   "require": {
-    "osja/core": "dev",
+    "osja/core": "dev-master",
     "laravelcollective/html": "5.4.*"
   },
   "authors": [
